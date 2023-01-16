@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/index.apple-touch-icon.png-e066931733b9fc8c0dc8c6098241e112.stex"
+path="res://.import/index.apple-touch-icon.png-e87c67cb42aa54db3c9ba4b3f1a3356f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://HTML Builds/Exported/index.apple-touch-icon.png"
-dest_files=[ "res://.import/index.apple-touch-icon.png-e066931733b9fc8c0dc8c6098241e112.stex" ]
+source_file="res://HTML Builds/MiniGolf_Scorecard/index.apple-touch-icon.png"
+dest_files=[ "res://.import/index.apple-touch-icon.png-e87c67cb42aa54db3c9ba4b3f1a3356f.stex" ]
 
 [params]
 

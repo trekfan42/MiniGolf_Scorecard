@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/index.180x180.png-dde6ff137359cd99f2ba7eb971420be3.stex"
+path="res://.import/index.180x180.png-721923c63d7e03c001c1f09008d2e008.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://HTML Builds/Exported/index.180x180.png"
-dest_files=[ "res://.import/index.180x180.png-dde6ff137359cd99f2ba7eb971420be3.stex" ]
+source_file="res://HTML Builds/MiniGolf_Scorecard/index.180x180.png"
+dest_files=[ "res://.import/index.180x180.png-721923c63d7e03c001c1f09008d2e008.stex" ]
 
 [params]
 
